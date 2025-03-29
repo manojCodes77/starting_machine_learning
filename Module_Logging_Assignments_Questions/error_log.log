@@ -1,0 +1,4 @@
+2025-03-28 16:34:05 - custom_logger - ERROR - This error will be logged in the file
+2025-03-28 16:34:05 - custom_logger - CRITICAL - This critical error will also be logged in the file
+2025-03-29 09:49:55,613 - custom_logger - ERROR - This error will be logged in the file
+2025-03-29 09:49:55,614 - custom_logger - CRITICAL - This critical error will also be logged in the file
