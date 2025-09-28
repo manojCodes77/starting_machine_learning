@@ -35,3 +35,8 @@ conda deactivate
 # Create requirements.txt
 pip install -r requirements.txt
 ```
+
+## 4. To install a package in the ipynb file itself
+```python
+!pip install package_name
+```
